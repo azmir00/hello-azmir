@@ -1,2 +1,4 @@
 # hello-azmir
-dummy repository
+dum repository
+
+this repository just for fun....hehe
